@@ -1,4 +1,6 @@
+#include <stdio>
 #include "monty.h"
+#define _POSIX_C_SOURCE 200809L
 
 /**
  * main -> Main function.
